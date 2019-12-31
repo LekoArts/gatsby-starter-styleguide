@@ -946,10 +946,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.1.tgz#dcd07c5ce9abd85b2d869a8613ab7420024628f0"
-  integrity sha512-J3LKwixrSldDXGaloXrKXfr9vesw+80RCCt7NulcvICe8OhX4Mbc9LkmZXphPiUS9LI0tV7MGAAmDAJbc5z3hA==
+"@lekoarts/gatsby-theme-specimens@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.2.tgz#dbdd0f800d767098d1a38a4edb049d729091810a"
+  integrity sha512-wzU0l6qsBRjyYgjx6tfgR5dcuZJN7E2bQCk/9WLEFuYqdnziGh6ogcKMN0+j7uCqPPmM4Nt1gxS/1j6DrgcfHQ==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@styled-system/css" "^5.1.4"
@@ -958,12 +958,12 @@
     polished "^3.4.2"
     theme-ui "^0.2.52"
 
-"@lekoarts/gatsby-theme-styleguide@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.1.tgz#14e5292d3b7151947155e78ae60d5338e94f0e29"
-  integrity sha512-2m/KB9uCWgC5eLni9mfVDcXyAoTUSOazhQr7naIjqwZaWgULJIdCGRIFkFoe2fgZ2qyG0qJrmX85uIL+ZI6FtQ==
+"@lekoarts/gatsby-theme-styleguide@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.2.tgz#154f79c091f0c668f57df66c029f3bf97c27aa6b"
+  integrity sha512-rSGa8o0mB5Zp+swkZE+X2qNBFqXApVX+sG1bfVBOpjlX5CcfasYZOXosg4SeIBJgIkErum+wr4MzqQ/+VtklKA==
   dependencies:
-    "@lekoarts/gatsby-theme-specimens" "^2.0.1"
+    "@lekoarts/gatsby-theme-specimens" "^2.0.2"
     theme-ui "^0.2.49"
 
 "@mdx-js/react@^1.5.1":
