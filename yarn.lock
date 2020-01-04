@@ -946,10 +946,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.0.3":
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.3.tgz#279d7a49ae8675650f2e2a2bb315865176a9cef5"
-  integrity sha512-i6AVDPp94TRU1Vrocu76xINeA1qaxyajyuktcYrPQ9sngx/3VUieBKsYOQRyl7BOeH4oYFH+UntC+Xg9OHsZlQ==
+"@lekoarts/gatsby-theme-specimens@^2.0.4":
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.0.4.tgz#9d95bbc972bfb5a0cc522250250fedc40397f5c4"
+  integrity sha512-MTO81Es+RJwjTubHEwC2D3TkmTBm1irAH088AvvklX7dkGqIx8Z1M875NWd5Yg0QN0kT7qmfgKNFPXFtAkc33A==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@styled-system/css" "^5.1.4"
@@ -958,12 +958,12 @@
     polished "^3.4.2"
     theme-ui "^0.2.52"
 
-"@lekoarts/gatsby-theme-styleguide@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.3.tgz#cdd601a83e53e56a6a4e65f4fe5018acd23772e4"
-  integrity sha512-6McKeEzNk77t3+rXwwYIRngESg9WuuylAdKDAJptVjbd5qQybkpz3cpoe32zbCsKp/+HhJBWwHxCrItXohZ+/Q==
+"@lekoarts/gatsby-theme-styleguide@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.4.tgz#7d14fdfca7d22e3aaea6308473b83a0a94ac84e0"
+  integrity sha512-2oGezOKzlil2D2xiVqQ2nSRNRAOaubBDTClzr3a5pY8nJ1oJwTizLhNKZz7A1dVs9Zvxzl3X4/GjehCXtUfw3g==
   dependencies:
-    "@lekoarts/gatsby-theme-specimens" "^2.0.3"
+    "@lekoarts/gatsby-theme-specimens" "^2.0.4"
     theme-ui "^0.2.49"
 
 "@mdx-js/react@^1.5.1":
@@ -7622,9 +7622,9 @@ physical-cpu-count@^2.0.0:
   integrity sha1-GN4vl+S/epVRrXURlCtUlverpmA=
 
 picomatch@^2.0.4, picomatch@^2.0.5:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.1.1.tgz#ecdfbea7704adb5fe6fb47f9866c4c0e15e905c5"
-  integrity sha512-OYMyqkKzK7blWO/+XZYP6w8hH0LDvkBvdvKukti+7kqYFCiEAk+gI3DWnryapc0Dau05ugGTy0foQ6mqn4AHYA==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.0.tgz#e16e8587cb70cb515a698ee4a0f2df1edb0c9aa3"
+  integrity sha512-Gskshv+376q+hmJbbOiMK+Jtv3bNkwnoOtVSPkcSrvsu9WuKJvBXOcSlBkWgWE0+A011wfafeWpiDrdbowddfg==
 
 pify@^2.0.0:
   version "2.3.0"
