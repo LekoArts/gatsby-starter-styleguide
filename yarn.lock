@@ -966,24 +966,24 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.1.1.tgz#64c76d7066282efac04772be187ecc7702b78b17"
-  integrity sha512-RIaDDKRb5Y7D0Uvp4sCp0We165xeAILEBK3HiUysxqq7l0VztEBBfYcLMu3ARSL2s7BzueLuIXqa7J3XrECRtQ==
+"@lekoarts/gatsby-theme-specimens@^2.1.2":
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.1.2.tgz#66bc1bb7cd8b65054e57f3026672328b5d98030a"
+  integrity sha512-WPcDrqDFvxHplWDjhoCj6GlWg2jjC6I7mdqaBh2Xot7gjQ1EPY7Ja03zA03aMewnNhLDn047FtUVaXgDOf4DWA==
   dependencies:
     "@emotion/core" "^10.0.27"
     "@styled-system/css" "^5.1.4"
     chroma-js "^2.1.0"
-    gatsby-plugin-typescript "^2.1.26"
-    polished "^3.4.2"
+    gatsby-plugin-typescript "^2.1.27"
+    polished "^3.4.4"
     theme-ui "^0.2.52"
 
-"@lekoarts/gatsby-theme-styleguide@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.8.tgz#3d2a3015cb36ab78bbd91e74c5e4c89f6e9d8685"
-  integrity sha512-n4drULy4CvdKpLSDJLD5WQKP1a6lsT6+/7pfRSFMma3OqnEmbOiDWAftgK/pYlj/8Xfdir8k6lOJxM5sx2JDOA==
+"@lekoarts/gatsby-theme-styleguide@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.9.tgz#94b9b978ae7a71bdf19bb4f3857aaa82371fc5ca"
+  integrity sha512-RcDXHK4urAi0tzaVCFb/hgV9dAqe2w6c4nMLwe5flz2OXR6sQ5aX1RA+UDHgcbCCnqItJvx/tno7KEdgKEz9fw==
   dependencies:
-    "@lekoarts/gatsby-theme-specimens" "^2.1.1"
+    "@lekoarts/gatsby-theme-specimens" "^2.1.2"
     theme-ui "^0.2.52"
 
 "@mdx-js/react@^1.5.1":
@@ -4574,7 +4574,7 @@ gatsby-plugin-theme-ui@^0.2.43:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.53.tgz#57a52339e50ede7ef4df0b1b5593d360b56b597d"
   integrity sha512-AlQC+uC9lvrP3LlGsLe0f0azp7B5c49qWl4b3FDj8xbravBoqFmJT7XrNTpYYbxnCnx/K1v0QtwP8qindw0S2g==
 
-gatsby-plugin-typescript@^2.1.26:
+gatsby-plugin-typescript@^2.1.27:
   version "2.1.27"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.1.27.tgz#1b19c7c79e73fa44eebebad4cf067d4dc4ea99c4"
   integrity sha512-c1Iv5tDMR/+V0ylZU6lGHkLCMNfSF/K3/60TTO/HvvS0OqNgX9ccTfD9LAiPDQeGWNPdeMaQx3aYJNKrVKLS1Q==
@@ -7676,7 +7676,7 @@ pnp-webpack-plugin@^1.5.0:
   dependencies:
     ts-pnp "^1.1.2"
 
-polished@^3.4.2:
+polished@^3.4.4:
   version "3.4.4"
   resolved "https://registry.yarnpkg.com/polished/-/polished-3.4.4.tgz#ac8cd6e704887398f3b802718f9d389b9ea4307b"
   integrity sha512-x9PKeExyI9AhWrJP3Q57I1k7GInujjiVBJMPFmycj9hX1yCOo/X9eu9eZwxgOziiXge3WbFQ5XOmkzunOntBSA==
