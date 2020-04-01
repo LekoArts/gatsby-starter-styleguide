@@ -1025,7 +1025,7 @@
     polished "^3.5.1"
     theme-ui "^0.2.52"
 
-"@lekoarts/gatsby-theme-styleguide@^1.0.12":
+"@lekoarts/gatsby-theme-styleguide@^1.0.13":
   version "1.0.13"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.0.13.tgz#730df8ab3a85cb7b26f5dd1a3c5524611134a007"
   integrity sha512-+ewy7Cfw8+JLkHOSnj67HJZ6ne4qiBr1HlkBvgITqnt/tfW+16sxi1JxIWXbU9pQamx0ht7qNoyAabQX1TPNnQ==
