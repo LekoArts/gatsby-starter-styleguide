@@ -1057,7 +1057,7 @@
     gatsby-plugin-typescript "^2.3.3"
     polished "^3.5.2"
 
-"@lekoarts/gatsby-theme-styleguide@^1.0.15":
+"@lekoarts/gatsby-theme-styleguide@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.1.0.tgz#a3a9d46d1a2fcdc9a655802d365f288b05743369"
   integrity sha512-DUgVAEIsxvB1btcYSpS5khE4vQjAfekoM0g3TEFORQrvFO05hPhMTO37yNdHV62UFQz/5nvG0R2iMFV3ytcW/g==
