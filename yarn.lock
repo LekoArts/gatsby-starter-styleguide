@@ -1047,22 +1047,22 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lekoarts/gatsby-theme-specimens@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.2.0.tgz#16a039dbf29421fadb296ab22b6089a0ba91c43e"
-  integrity sha512-j2Knr0181Lbxsv+6Wt6OMEGV4tzFlSZy0IURhveNGtteNqwpjReqC5d5iHoIxzhClUGrG2Wi10R4T5bNbd8evg==
+"@lekoarts/gatsby-theme-specimens@^2.2.1":
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-specimens/-/gatsby-theme-specimens-2.2.1.tgz#057982eb296ab087d6e6b68e3f9d27e4e475d558"
+  integrity sha512-QRA0ZKMoZuC4Fg1vGfFOSYi7FgDnLd+ixmDp5Q9lOQ5VZl/APW5cWW73Re3ciPwLEZ7QCPTeRQ/hWKkPLshhKA==
   dependencies:
     "@styled-system/css" "^5.1.5"
     chroma-js "^2.1.0"
-    gatsby-plugin-typescript "^2.3.3"
+    gatsby-plugin-typescript "^2.4.0"
     polished "^3.5.2"
 
-"@lekoarts/gatsby-theme-styleguide@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.1.0.tgz#a3a9d46d1a2fcdc9a655802d365f288b05743369"
-  integrity sha512-DUgVAEIsxvB1btcYSpS5khE4vQjAfekoM0g3TEFORQrvFO05hPhMTO37yNdHV62UFQz/5nvG0R2iMFV3ytcW/g==
+"@lekoarts/gatsby-theme-styleguide@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@lekoarts/gatsby-theme-styleguide/-/gatsby-theme-styleguide-1.1.1.tgz#cde9878f3a7d6dc15af392660a555fb7ab55ba08"
+  integrity sha512-j8dXjH4llJ5nVijmhrudPjd9R3Wfqu/Qfde6RqQf5OSU4OogMvTVEzMo/Gqbsb+2cV94Qg4u6uUUBP5xoyDI4Q==
   dependencies:
-    "@lekoarts/gatsby-theme-specimens" "^2.2.0"
+    "@lekoarts/gatsby-theme-specimens" "^2.2.1"
 
 "@mdx-js/mdx@^1.5.9", "@mdx-js/mdx@^1.6.0":
   version "1.6.0"
@@ -5168,7 +5168,7 @@ gatsby-plugin-theme-ui@^0.3.0:
   resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.3.0.tgz#ab84216536ae45abe09a6edf24156b9dbf50d6a5"
   integrity sha512-Q2tS8EeYMy7AAtt6hvDtEsd1uwrLMjkDNqabyXhAo38AFoWQ0oKtq9u1YqbiRvp1TK06pAMPQQ3to48LAqc9Cw==
 
-gatsby-plugin-typescript@^2.3.3:
+gatsby-plugin-typescript@^2.4.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-2.4.0.tgz#4ef561acb28ae980e96125f70ae06954fa5de646"
   integrity sha512-PAP6/a83yK7HRv5o0paY000HYL7O4vS0x38t1gxP4tsDpd9L35vNeHeZfklifCE67n9PsElgfSmtCL2Za0M4KQ==
